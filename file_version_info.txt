@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'040904B0',
+          [StringStruct(u'CompanyName', u'MP3CoverArt'),
+          StringStruct(u'FileDescription', u'MP3 Cover Art Adder'),
+          StringStruct(u'FileVersion', u'1.0.0'),
+          StringStruct(u'InternalName', u'MP3CoverArt'),
+          StringStruct(u'LegalCopyright', u'Copyright (c) 2024'),
+          StringStruct(u'OriginalFilename', u'MP3CoverArt.exe'),
+          StringStruct(u'ProductName', u'MP3 Cover Art Adder'),
+          StringStruct(u'ProductVersion', u'1.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+) 
